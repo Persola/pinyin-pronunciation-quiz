@@ -12,8 +12,12 @@ if len(syllables_as_pinyin) != len(set(syllables_as_pinyin)):
 def answer(question_syllable):
     return(
         dedent(f'''
-            initial: {initials[question_syllable['initial']]}
-            final: {finals[question_syllable['final']]}
+            initial
+                pinyin: {initials[question_syllable['initial']]['pinyin']}
+                IPA: {initials[question_syllable['initial']]['IPA']}
+                classification: {initials[question_syllable['initial']]['classification']}
+                hint: {initials[question_syllable['initial']]['hint']}
+            final: ({finals[question_syllable['final']]})
         ''')
     )
 
