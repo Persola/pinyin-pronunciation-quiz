@@ -1,9 +1,9 @@
 syllables = [
-    {
-        'pinyin': 'yang',
-        'initial': None,
-        'final': 'iang'
-    },
+    # {
+    #     'pinyin': 'yang',
+    #     'initial': None,
+    #     'final': 'iang'
+    # },
     {
         'pinyin': 'heng',
         'initial': 'h',
@@ -19,16 +19,16 @@ syllables = [
         'initial': 'p',
         'final': 'eng'
     },
-    {
-        'pinyin': 'guo',
-        'initial': 'g',
-        'final': 'uo'
-    },
-    {
-        'pinyin': 'liang',
-        'initial': 'l',
-        'final': 'iang'
-    },
+    # {
+    #     'pinyin': 'guo',
+    #     'initial': 'g',
+    #     'final': 'uo'
+    # },
+    # {
+    #     'pinyin': 'liang',
+    #     'initial': 'l',
+    #     'final': 'iang'
+    # },
     {
         'pinyin': 'xu',
         'initial': 'x',
@@ -54,11 +54,11 @@ syllables = [
         'initial': 'zh',
         'final': 'ao'
     },
-    {
-        'pinyin': 'ming',
-        'initial': 'm',
-        'final': 'ing'
-    },
+    # {
+    #     'pinyin': 'ming',
+    #     'initial': 'm',
+    #     'final': 'ing'
+    # },
     {
         'pinyin': 'ou',
         'initial': None,
@@ -79,11 +79,11 @@ syllables = [
         'initial': None,
         'final': 'ui'
     },
-    {
-        'pinyin': 'zhong',
-        'initial': 'zh',
-        'final': 'ong'
-    },
+    # {
+    #     'pinyin': 'zhong',
+    #     'initial': 'zh',
+    #     'final': 'ong'
+    # },
     {
         'pinyin': 'liu',
         'initial': 'l',
@@ -92,7 +92,7 @@ syllables = [
     {
         'pinyin': 'yi',
         'initial': None,
-        'final': 'i'
+        'final': 'i (3)'
     },
     {
         'pinyin': 'he',

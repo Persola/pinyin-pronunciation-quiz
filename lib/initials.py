@@ -1,5 +1,5 @@
 initials = {
-    None: '',
+    None: None,
     'b': {
         'pinyin': 'b',
         'IPA': 'p',
